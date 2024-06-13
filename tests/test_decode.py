@@ -1,5 +1,5 @@
 from app import create_app
-from app.encode import encode
+from app.decode import decode
 
 flask_app = create_app()
 
